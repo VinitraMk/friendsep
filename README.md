@@ -1,4 +1,4 @@
-# getcomic-cli 
+# friendsep 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
 A command line tool to play a random F.R.I.E.N.D.S episode
@@ -36,15 +36,12 @@ Ubuntu
 
 ![](https://i.imgur.com/Wl8iNDP.png)  
 
-The directory name you specified will be created in the home folder if not already present.
-
-![](https://i.imgur.com/FPDnwsI.gif)
 
 
 ## Authors
 
 * **Vinitra Muralikrishnan** - [VinitraMk](https://github.com/VinitraMk)
-See also the list of [contributors](https://github.com/VinitraMk/getcomic-cli/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/VinitraMk/friendsep/contributors) who participated in this project.
 
 ## License
 

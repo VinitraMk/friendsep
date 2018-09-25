@@ -13,7 +13,7 @@ setup(
         author_email='vinitramk@gmail.com',
         long_description=long_description,
         long_description_content="text/markdown",
-        url='',
+        url='https://github.com/VinitraMk/friendsep',
         packages=[
             'friendsep'
             ],
