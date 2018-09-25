@@ -32,7 +32,7 @@ Ubuntu
 
 ## Usage 
 
-1. After installation is done, run the command `friends` and that's it!
+1. After installation is done, run the command `friendsep` and that's it!
 
 ![](./assets/ezgif.com-video-to-gif.gif)  
 
