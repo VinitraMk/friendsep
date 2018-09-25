@@ -21,10 +21,10 @@ Ubuntu
 
 ### Installation
 
-    * **Using pip**  
+    **Using pip**  
     `sudo pip3 install friendsep`  
 
-    * **From source**   
+    **From source**   
         1. Clone this repo and navigate to this folder in your machine.  
         2. Install using the following commands now.   
             `python3 setup.py build`  
