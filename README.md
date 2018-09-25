@@ -21,7 +21,7 @@ Ubuntu
 
 ### Installation
 
-**Using pip** 
+**Using pip**  
 `sudo pip3 install friendsep`  
 
 **From source**   
