@@ -6,13 +6,14 @@ import subprocess
 #print(os.getcwd())
 def main():
     home=expanduser("~")
+    os.chdir(home)
     friends_file=home+"/friends_path.txt"
     path=""
     if(os.path.exists(friends_file)):
-        print(friends_file)
+        #print(friends_file)
         with open(friends_file) as f:
             path=f.read()
-        print(path)
+        print("\nPath to F.R.I.E.N.D.S folder: ",path)
 
     else:
         path=input("Enter the absolute path of the folder where F.R.I.E.N.D.S episodes are stored: ")
@@ -36,4 +37,5 @@ def main():
 
 if __name__=="__main__":
     main()
+    
 

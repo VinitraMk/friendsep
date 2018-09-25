@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: friendsep
-Version: 0.0.0
+Version: 0.0.3
 Summary: A simple command line tool to watch a random episode of F.R.I.E.N.D.S
 Home-page: https://github.com/VinitraMk/friendsep
 Author: VinitraMk
@@ -29,14 +29,14 @@ Description: # friendsep
         
         ### Installation
         
-            * **Using pip**  
-            `sudo pip3 install friendsep`  
+        **Using pip**  
+        `sudo pip3 install friendsep`  
         
-            * **From source**   
-                1. Clone this repo and navigate to this folder in your machine.  
-                2. Install using the following commands now.   
-                    `python3 setup.py build`  
-                    `python3 setup.py install`  
+        **From source**   
+            1. Clone this repo and navigate to this folder in your machine.  
+            2. Install using the following commands now.   
+                `python3 setup.py build`  
+                `python3 setup.py install`  
         
         ## Usage 
         
@@ -61,4 +61,5 @@ Platform: UNKNOWN
 Classifier: Development Status :: 4 - Beta
 Classifier: Intended Audience :: Developers
 Classifier: Operating System :: POSIX
-Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License

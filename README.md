@@ -34,7 +34,7 @@ Ubuntu
 
 1. After installation is done, run the command `friends` and that's it!
 
-![](https://i.imgur.com/Wl8iNDP.png)  
+![](./assets/ezgif.com-video-to-gif.gif)  
 
 
 
